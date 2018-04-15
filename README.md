@@ -1,7 +1,7 @@
 # AI_learning_resource
 
 Python
-1. 《简明 Python 教程》
+1. 《简明 Python 教程》（附）
  适合编程基础较差的同学看，但内容较浅，不涉及 Generator、List Comprehensions。
 2. 《The Python Tutorial》[网址](https://docs.python.org/3/tutorial/)即官方 Tutorial
 内容完整而由易入难、结构清晰、有描述有示例，建议使用此资料，且前11章必看。
